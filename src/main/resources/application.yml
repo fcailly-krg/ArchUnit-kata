@@ -1,0 +1,11 @@
+server:
+  port: 11000
+
+spring:
+  data:
+    mongodb:
+      database: arcunit-kata
+      host: localhost
+  output:
+    ansi:
+      enabled: always
