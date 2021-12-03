@@ -1,7 +1,5 @@
 package com.krgcorporate.example;
 
-import com.krgcorporate.example.ContractService;
-import com.krgcorporate.example.Contract;
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
 import lombok.NonNull;
